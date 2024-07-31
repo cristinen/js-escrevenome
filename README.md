@@ -1,1 +1,1 @@
-# js-nicoolly
+# js-nicolly
